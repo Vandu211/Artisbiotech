@@ -1,0 +1,68 @@
+*
+{
+    box-sizing: border-box;
+}
+
+#head{
+    background-image: url("bg_header1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+ h1
+{
+    padding: 120px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    font-family: "Oswald", "Open Sans", sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+}
+
+#content>h2
+{
+   
+   color: #c5373d;
+   font-family: "Oswald", "Open Sans", sans-serif;
+   font-size: 24px;
+    font-weight: 400;
+
+}
+
+#content>p
+{
+    text-align: justify;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: normal;
+    background: transparent;
+    display: block
+}
+#nav
+{
+    padding-top: 120px;
+    padding-left: 300px;
+    color: white;
+    
+}
+.for
+{
+    color: white;
+}
+
+.List li
+{
+    font-size: 100%;
+    font-weight: normal;
+    vertical-align: baseline;
+    background: transparent;
+
+}
+.link
+{
+    display: inline;
+    content: url('Screenshot 2024-02-07 203409.png');
+}
