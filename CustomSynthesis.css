@@ -2,6 +2,11 @@
 {
     box-sizing: border-box;
 }
+body
+{
+    overflow-x: hidden;
+}
+
 
 #head{
     background-image: url("bg_header1.jpg");
